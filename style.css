@@ -402,36 +402,6 @@ footer {
   bottom: 0;
 }
 
-/* =======================================
-    author styles
-    place your custom styles below here
-========================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* =======================================
-    Layout
-    keep this at the bottom
-========================================== */
-
 @media (min-width: 620px) {
   .column {
     float: left;
@@ -490,4 +460,3 @@ footer {
 .row {
   *zoom: 1;
 }
-Contact GitHub API Training Shop Blog About
